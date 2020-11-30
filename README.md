@@ -1,3 +1,11 @@
+<style>
+.box {
+  width: 300px;
+  height: 300px;
+  background: red;
+}
+</style>
+
 # 👋 Hey There!
 
  🇺🇸 English / 🇯🇵 日本語 / 🇭🇰 廣東話(spoken)
@@ -18,3 +26,5 @@ I love video games, anime, and ramen. I also spend too much money on keyboards.
 - LinkedIn: https://www.linkedin.com/in/chrismtse/
 
 I also occasionally stream some of my coding on Twitch! https://www.twitch.tv/TheOtakuDev
+
+<div class="box"></div>
