@@ -2,7 +2,7 @@
 
  🇺🇸 English / 🇯🇵 日本語 / 🇭🇰 廣東話(spoken)
 
-I'm Chris! I'm a software engineer at Oracle NetSuite working on front end JavaScript/TypeScript, React, and CSS. I also dabble in some Python and Java in my free time.
+I'm Chris! I'm a software engineer at RentPath working on front end JavaScript/TypeScript, React, and CSS. I also dabble in some Python and Java in my free time.
 
 I love video games, anime, and ramen. I also spend too much money on keyboards.
 
