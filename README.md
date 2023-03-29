@@ -13,7 +13,7 @@ I love video games, anime, and ramen. I also spend too much money on keyboards.
 
 ## Get in touch
 
-- Personal Site: https://christse.io
+- Personal Site: https://christse.dev
 - Twitter: https://twitter.com/ChrisMTse
 - LinkedIn: https://www.linkedin.com/in/chrismtse/
 
