@@ -16,5 +16,3 @@ I love video games, anime, and ramen. I also spend too much money on keyboards.
 - Personal Site: https://christse.dev
 - Twitter: https://twitter.com/ChrisMTse
 - LinkedIn: https://www.linkedin.com/in/chrismtse/
-
-I also occasionally stream some of my coding on Twitch! https://www.twitch.tv/TheOtakuDev
